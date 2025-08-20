@@ -1,1 +1,1 @@
-# SQL
+# SQL um script sobre uma Empresa que tem funcionários, e que também há clientes que querem comprar um determinado produto com diversas categorias e também há detalhes do pedido dos clientes de fornecedores na Empresa
